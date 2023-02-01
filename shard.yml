@@ -1,0 +1,17 @@
+name: yaml2markdown
+version: 0.1.0
+
+authors:
+  - Ewen Le Bihan <hey@ewen.works>
+
+targets:
+  yaml2markdown:
+    main: src/yaml2markdown.cr
+
+crystal: 1.0.0
+
+license: MIT
+
+dependencies:
+  docopt:
+    github: chenkovsky/docopt.cr

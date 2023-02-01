@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  docopt:
+    git: https://github.com/chenkovsky/docopt.cr.git
+    version: 0.1.0+git.commit.2d10b1facce0a8b9849e23e3263d553d9e4b1c66
+
